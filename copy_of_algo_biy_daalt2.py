@@ -1,3 +1,8 @@
+
+# Уг код нь анхнаасаа google colab дээр бичигдсэн бөгөөд
+# Github-руу push-лэхийн тулд энд зөөв.
+
+#  Таны локал орчинд ажиллахгүй бол оригинал файл руу очих -> https://colab.research.google.com/drive/175HoiSAc9it5MQiOAuVka1TKrPRr0mZH
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from pyngrok import ngrok
